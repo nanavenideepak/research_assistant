@@ -1,0 +1,7 @@
+langchain>=0.3,<1.0
+langchain-groq>=0.3,<1.0
+langchain-community>=0.3,<1.0
+langchain-core>=0.3,<1.0
+streamlit
+tavily-python
+python-dotenv
